@@ -1,4 +1,4 @@
-nstall all the necessary dependencies
+Install all the necessary dependencies
 ```
 > npm install
 > npm install -g webpack
